@@ -1,0 +1,19 @@
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	background: #FFFFFF;
+}
+
+#page {
+	background: #AAAAFF;
+	margin: 0 auto;
+	padding: 10px 10px 10px 10px;
+	width: 650px;
+}
+
+article#nakineko {
+	background: #CCCCFF;
+	width: 600px;
+	height: 450px;
+	margin: 0 auto;
+}
